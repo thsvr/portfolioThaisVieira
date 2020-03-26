@@ -227,18 +227,18 @@ img {
   height: 100%;
 }
 
-.languages {
-  color:  #284B63;
+.languages {  
+  color: #3C6E71;
   font-weight: bolder;
 }
 
 .proj-desc {
-  color: #3C6E71;
+  color:  #284B63;
   font-style: italic;
 }
 
 .proj-group {
-  color: #3C6E71;
+  color:  #284B63;
   font-weight: bold;
   font-size: medium;
 }
